@@ -6,7 +6,4 @@
 ## Overview
 
 * [📈 Decentralized Exchange](overview/decentralized-exchange.md)
-
-***
-
-* [⚛ The Auto Market Maker (AMM)](the-auto-market-maker-amm.md)
+* [⚛ The Auto Market Maker (AMM)](overview/the-auto-market-maker-amm.md)
