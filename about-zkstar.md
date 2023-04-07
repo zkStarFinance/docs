@@ -63,3 +63,13 @@ Our platform is built on top of the Ethereum blockchain using zkRollups, a layer
 By offering an open-source and extensible platform, we aim to foster a community of developers who can collaborate and innovate together to create the next generation of DeFi products and services. We believe that this collaborative approach is essential for driving innovation and pushing the boundaries of what's possible in the world of DeFi.
 
 So whether you're a developer looking to contribute to our open-source protocol, or a user looking to leverage the latest DeFi innovations, zkStar is the platform for you. Join us today and experience the power of an open and extensible DeFi protocol.
+
+## Community Ownership
+
+At zkStar, we believe that decentralized finance (DeFi) should be truly decentralized, and that's why we've designed our platform to be owned and governed by the community.
+
+We believe that the power of DeFi lies in the ability of users to control and govern the platform they use, which is why we've built a governance framework that allows zkStar token holders to propose and vote on changes to the platform. This ensures that our platform evolves in a way that's responsive to the needs and desires of our community, and that all stakeholders have a say in the platform's development.
+
+In addition to our community-driven governance framework, we also offer a range of other community-focused features, such as rewards for active participation, and the ability to stake zkStar tokens in order to earn additional rewards and influence over governance decisions.
+
+We believe that the strength of a decentralized platform lies in its community, and that's why we're committed to fostering an engaged and active community of users, developers, and stakeholders. So whether you're a long-term user or a new member of the community, zkStar is the platform for you. Join us today and be part of the future of decentralized finance.
